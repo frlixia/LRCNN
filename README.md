@@ -1,1 +1,1 @@
-# landslide-hazard-assessment
+# landslide-hazard-mapping
